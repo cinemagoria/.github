@@ -10,20 +10,21 @@ The platform streamlines the entertainment lifecycle—from initial discovery to
 
 - **Discovery** — categorized multi-search across films, series, people, news, festivals and production companies, with contextual query parsing and typo tolerance.
 - **Film & series pages** — ratings from several sources with the origin always labelled, original soundtracks, reviews, country-flagged release dates and recommendation carousels.
+- **Release calendar** — every tracked release for a month or week, films and episodes together, each dated per country and release type rather than as one universal date.
 - **Watchlist & lists** — a filterable watchlist with weighted sorting, plus unlimited themed lists that can be public, private or cloned by other users.
 - **Follows & notifications** — follow people, series, production companies and streaming platforms; new films and episodes arrive as notifications synced across devices.
 - **Awards** — full historical coverage of the Academy Awards, Golden Globes, Palme d'Or, Golden Lion and Golden Bear.
-- **Cinema news** — an in-house editorial pipeline rather than raw third-party feeds, with trailer embeds, image carousels and related titles.
+- **Cinema news** — an in-house editorial pipeline alongside curated trusted outlets, every card labeled with its source, with trailer embeds, image carousels and related titles.
 - **N.O.I.R.** — an in-house editorial selection running parallel to the algorithmic feeds. A title promoted there stays identifiable across the platform, including after it leaves rotation.
-- **Profiles** — public or private, with activity feeds, episode-level progress tracking and granular privacy and cookie controls. Available in English and Spanish.
+- **Profiles** — public or private, with activity feeds, minute-level progress tracking down to individual episodes and granular privacy and cookie controls. Available in English and Spanish.
 
 ### Festival coverage
 
 The circuit gets first-class treatment: every covered festival has its own page, built from the festival's own programme rather than a generic feed. Selections are grouped by their real sections, screening schedules are timezone-aware, award winners are seeded once the ceremonies close, and any title that played a covered festival carries that provenance wherever it appears.
 
-Live now: **Sundance · Rotterdam · Berlinale · Romford Horror · Slamdance · SXSW · BIFFF · BAFICI · Calgary Underground · Cannes · Tribeca · Bucheon · Karlovy Vary · Fantasia · Locarno · FrightFest · Venice · Toronto**.
+Live now: **Sundance · Rotterdam · Berlinale · Romford Horror · Slamdance · SXSW · BIFFF · BAFICI · Calgary Underground · Cannes · Tribeca · Bucheon · Karlovy Vary · Fantasia · Locarno · FrightFest · Venice · Toronto · Busan · BFI London · Sitges**.
 
-Landing across the rest of the 2026 cycle: **Busan · BFI London · Sitges · Cairo · Mar del Plata · Buenos Aires Rojo Sangre · Marrakech · Red Sea** — Cairo, Marrakech and Red Sea taking coverage into Africa and the Middle East, and Busan following Bucheon into South Korea.
+Landing across the rest of the 2026 cycle: **Cairo · Mar del Plata · Buenos Aires Rojo Sangre · Marrakech · Red Sea** — Cairo, Marrakech and Red Sea taking coverage into Africa and the Middle East.
 
 Catalogs are assembled from public metadata and third-party sources, which do not always reach every title — shorts, experimental work and regional productions especially. That is a metadata limitation, never an editorial one.
 
