@@ -1,4 +1,4 @@
-## Cinemagoria - The moment you discover what to watch.
+<img src="https://raw.githubusercontent.com/cinemagoria/.github/main/profile/cinemagoria-header.jpg" alt="Cinemagoria — The moment you discover what to watch." width="100%">
 
 Cinemagoria is a high-performance **Progressive Web Application (PWA)** engineered for modern viewers. By aggregating data from **TMDB, IMDb, MDBList, Trakt, and JustWatch**, it provides a centralized hub for intelligent search and cross-device synchronization.
 
